@@ -1,0 +1,82 @@
+body {
+  background-color: #fefaf6;
+  margin: 0;
+}
+header {
+  width: auto;
+  height: 40px;
+  background-color: #0e0e0e;
+}
+.heading-text_css {
+  margin-top: 5%;
+  text-align: center;
+  font-family: Inter, sans-serif;
+  font-size: 30px;
+}
+.para-lorem_css {
+  font-family: Inter, sans-serif;
+  font-weight: 600;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+.team-main-section_css {
+  /* border: 1px solid black; */
+  margin-top: 25px;
+  margin-left: 120px;
+  margin-right: 100px;
+}
+.team-main-section_css div {
+  height: 300px;
+  width: 250px;
+  border: 1px solid #f39383;
+  display: inline-block;
+  margin: 1%;
+  position: relative;
+}
+.team-1_css img {
+  display: flex;
+  position: absolute;
+  border-radius: 50%;
+  padding: 30px 85px;
+}
+.team-1_css h2 {
+  font-size: 18px;
+  font-family: Inter, sans-serif;
+  text-align: center;
+  margin-top: 50%;
+  color: #413f3f;
+}
+.team-1_css p {
+  font-size: 12px;
+  font-family: Inter, sans-serif;
+  color: #878686;
+  text-align: center;
+  line-height: 0.5;
+  letter-spacing: 3px;
+}
+
+.social-t1_css {
+  position: absolute;
+  border: 1px solid #f39383;
+  height: 15%;
+  width: 85%;
+  margin: 20px 18px;
+  background-color: #fce8e5;
+  border-radius: 20px;
+}
+.icon_css i {
+  font-size: large;
+  color: #777777;
+  padding: 10px;
+  padding-top: 15px;
+}
+.icon_css {
+  padding-left: 55px;
+}
+footer {
+  width: auto;
+  height: 40px;
+  margin-top: 4.5%;
+  background-color: #0e0e0e;
+}
